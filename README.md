@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi there 👋 I'm Jayasri M B
 
-<!--
-**jaya2005/jaya2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final year B.Tech student specializing in **Artificial Intelligence and Machine Learning** at RMD Engineering College, Chennai.  
+💻 Passionate about building real-world AI solutions and full-stack applications.  
+📍 Open to software development, machine learning, and AI research roles.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 About Me
+
+- 👩‍💻 Currently focusing on **AI/ML research** and **API development**
+- 🚀 Building intelligent apps using **Python**, **C++**, and **Java**
+- 🔍 Enthusiastic about **Deep Learning**, **Generative AI**, and **Computer Vision**
+- 📚 CGPA: `8.77` | Fluent in **Tamil**, **English**, and learning **German**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+`Python` `Java` `C` `SQL` `JavaScript`
+
+**Tools & Platforms:**  
+`VS Code` `Streamlit` `Google Colab` `Jupyter Notebook` `Git & GitHub`
+
+**Libraries & Frameworks:**  
+`TensorFlow` `OpenCV` `Scikit-learn` `Flask` `RAG` `Transformers` `U-Net`
+
+---
+
+### 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jayasri-balaji-a6247a25b)  
+- 💌 jayasribalaji05@gmail.com  
+- 🌐 [GitHub Profile](https://github.com/jaya2005)
+
+---
+
+**“Code with purpose. Build with passion.”**
+
